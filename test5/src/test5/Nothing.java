@@ -9,13 +9,6 @@ package test5;
  *
  * @author nate
  */
-public class Test5 {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        System.out.println("Hello from netbeans");
-    }
+public class Nothing {
     
 }
